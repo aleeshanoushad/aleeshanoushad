@@ -1,16 +1,37 @@
-### Hi there 👋
+#Features
 
-<!--
-**aleeshanoushad/aleeshanoushad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Responsive Layout powered by Bootstrap 3
+- Built with w3 validated HTML5 & CSS3
+- Modern Design
+- Full Screen Header Background
+- Optimized Code & Content
+- Showcase your work more attractively.
+- HiDPI / Retina Ready
+- Clean Code
+- IE 9 support
+- SEO Optimized
+- 100% Fully Customizable
+- Sticky Header
+- Google Fonts
+- Strong focus on Usability and UX
+- FontAwesome Icon Integrated
+- Powered by Google Hosted Library and MaxCDN. 
+- Minified CSS and Js included for Faster loading. 
+- Clean and stylish UI
+- Well commented coding
+- Easy to use
+- It's Free!
 
-Here are some ideas to get you started:
+#Screenshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Screenshot of HTML 5]
+(https://raw.githubusercontent.com/technext/Developer/master/Features/html5.png)
+
+
+#Demo Link
+Check out the demo of Flusk responsive HTML template at (http://themewagon.com/demo/Developer/)
+
+
+
+
+
